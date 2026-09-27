@@ -144,7 +144,7 @@ export default function Contact() {
                   id="email"
                   type="email"
                   required
-                  placeholder="Your email@gmail.com"
+                  placeholder="your@gmail.com"
                   value={formData.email}
                   onChange={(e) =>
                     setFormData({ ...formData, email: e.target.value })
