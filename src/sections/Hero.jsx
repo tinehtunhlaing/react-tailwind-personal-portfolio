@@ -3,15 +3,15 @@ import { ArrowRight } from "lucide-react";
 import { FaGithub, FaLinkedin, FaTwitter } from "react-icons/fa";
 
 const skills = [
-  "JavaScript",
   "React",
-  "Node.js",
   "Express",
-  "Prisma",
+  "Node.js",
+  "Prisma ORM",
+  "JavaScript",
   "React Native",
   "TypeScript",
-  "Tailwind Css",
   "Next.js",
+  "Tailwind Css",
 ];
 
 export default function Hero() {

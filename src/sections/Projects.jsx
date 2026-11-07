@@ -5,7 +5,7 @@ const projects = [
   {
     title: "Real Estate",
     description:
-      "A comprehensive financial analytics platform with real-time data visualization, portfolio management, and AI-powered insights.",
+      "UI Preview Only — The interactive version is not available yet.",
     image: "/projects/RealEstate.jpeg",
     tags: ["React", "TypeScript", "NodeJS"],
     link: "#",
@@ -14,7 +14,7 @@ const projects = [
   {
     title: "E-commerce Platform",
     description:
-      "A comprehensive financial analytics platform with real-time data visualization, portfolio management, and AI-powered insights.",
+      "UI Preview Only — The interactive version is not available yet.",
     image: "/projects/E-commerce.jpg",
     tags: ["React", "TypeScript", "NodeJS"],
     link: "#",
@@ -23,7 +23,7 @@ const projects = [
   {
     title: "Movie website",
     description:
-      "A comprehensive financial analytics platform with real-time data visualization, portfolio management, and AI-powered insights.",
+      "UI Preview Only — The interactive version is not available yet.",
     image: "/projects/Movie1.jpeg",
     tags: ["React", "TypeScript", "NodeJS"],
     link: "#",
